@@ -7,9 +7,9 @@ This is the code repository for https://the-office-placeholder-site, a placehold
 - `yarn install`
 - `yarn dev`
 
-<div style="text-align: center;">
+<p align="center">
 <img src="https://github.com/user-attachments/assets/ae9f4afb-d587-41a0-a859-99b23b617254" width="700" />
-</div>
+</p>
 
 ### Credits
 
