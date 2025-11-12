@@ -1,4 +1,4 @@
-This is the code repository for https://the-office-placeholder-site, a placeholder site handy for testing with or if you need a quick site starter. It's build in React with TypeScript and Vite. It's themed as a site for the Dunder Mifflin paper company from the show The Office.
+This is the code repository for https://the-office-placeholder-site.com, a placeholder site handy for testing with or if you need a quick site starter. It's build in React with TypeScript and Vite. It's themed as a site for the Dunder Mifflin paper company from the show The Office.
 
 ## Getting Started
 
