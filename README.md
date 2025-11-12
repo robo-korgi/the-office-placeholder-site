@@ -6,6 +6,8 @@ This is the code repository for https://the-office-placeholder-site, a placehold
 - `cd the-office-placeholder-site`
 - `yarn install`
 - `yarn dev`
+  
+![screenshot](https://github.com/user-attachments/assets/ae9f4afb-d587-41a0-a859-99b23b617254)
 
 ### Credits
 
